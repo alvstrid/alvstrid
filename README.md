@@ -1,4 +1,4 @@
-Hey, I’m Teo 👋
+Hey, I’m Teo👋
 - 💼 I'm a full-time frontend developer (working with Angular)
 - 🌱 Also learning: Spring Boot
 
