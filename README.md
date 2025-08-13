@@ -1,4 +1,7 @@
-## Hi there 👋
+- Full-time Software Developer in the fintech sector  
+- Founder of EVIDRA software project
+- Bachelor’s in Computer Science & Master’s in Software Engineering  
+- When not coding I'm usually reading or gaming
 
 <!--
 **alvstrid/alvstrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
